@@ -181,6 +181,12 @@ body {
 }
 
 /* Портфоліо */
+.site-nav-studio{
+  color: var(--primary-text-color);
+  font-weight: 500;
+  text-decoration: none;
+}
+
 .button-filters {
   color: var(--primary-text-color);
   background-color: var(--button-background);
